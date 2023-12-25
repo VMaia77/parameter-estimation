@@ -10,4 +10,4 @@ The script sources an external Shiny app file (app_likelihood.R) to run the Shin
 
 And also explore the search space using the 3D surface plot:
 
-[Link to 3D Surface Plot](docs/3dsurf.html)
+[Link to 3D Surface Plot](https://VMaia77.github.io/parameter-estimation/docs/3dsurf.html)
